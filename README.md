@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammadu Amhar</h1>
+<h1 align="center">Hi 👋, I'm Amhar Arif</h1>
 <h3 align="center">Web Developer || ML Enthusiast</h3>
 
 - 🌱 I’m currently learning **Next.js and Cloud Services (AWS, GCP, Azure)**
