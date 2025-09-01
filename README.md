@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer || ML Enthusiast</h3>
 
 - 🌱 I’m currently learning **Next.js and Cloud Services (AWS, GCP, Azure)**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mohammaduamhar)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Amhar-Arif)
 - 📫 How to reach me **mamamhar254@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -41,5 +41,5 @@
 </p>
 
 <h3>GitHub Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammaduamhar&show_icons=true&locale=en" alt="mohammaduamhar" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammaduamhar&" alt="mohammaduamhar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amhar-Arif&show_icons=true&locale=en" alt="Amhar-Arif" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amhar-Arif&" alt="Amhar-Arif" /></p>
